@@ -77,8 +77,6 @@ Public address: ...
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acest fișier `README.md` explică pe scurt ce face scriptul, cum să-l instalați și să-l folosiți, și ce fel de output va genera. Puteți să-l ajustați în funcție de detaliile specifice ale proiectului dvs. și să-l adăugați în repository-ul GitHub.
-
 Old version v1.2
 Extract MKeys from Bitcoin Wallets
 This Python script automates the extraction of master keys (mkey) from Bitcoin Core wallet files (.dat) and archives (.zip, .rar, .7z). It recursively searches the current directory and its subdirectories for these files, processes them, and logs the extracted information into a specified output file.
