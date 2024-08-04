@@ -21,7 +21,7 @@ This Python script extracts all Bitcoin public keys, encrypted private keys (cke
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/wallet-info-extractor.git
+    git clone bekli23/Extract-MKeys-from-Bitcoin-Wallets.git
     cd wallet-info-extractor
     ```
 
